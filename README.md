@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Raza!
 
-⌨ Im a Software Developer<br/>
+⌨ I'm a Software Developer<br/>
 🧑 Studying at Toronto Metropolitian University<br/>
 🌐 Currently working on hosting my website and managing file storage my personal server.<br/>
 🎮 Enjoy developing RPG and Platformer games!<br/>
